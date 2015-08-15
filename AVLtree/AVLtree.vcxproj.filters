@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="AVLtree.cpp">
+    <ClCompile Include="AVLtree.h">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="avlTree_test.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
